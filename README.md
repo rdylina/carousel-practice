@@ -1,6 +1,6 @@
-# bootstrap-boilerplate
+# carousel-practice
 
-A boilerplate for Bootstrap Projects
+A repo just to test out bootstrap carousel functionality.
 
 ## Running On
 
